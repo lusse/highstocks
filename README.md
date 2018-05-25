@@ -1,2 +1,0 @@
-# highstocks
-Created with CodeSandbox
